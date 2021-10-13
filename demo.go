@@ -9,6 +9,7 @@ import (
 type Demo struct {
 
 }
+
 func (d *Demo) GetName()string{
 	return "demo"
 }
